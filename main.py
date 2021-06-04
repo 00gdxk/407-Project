@@ -1,4 +1,4 @@
-# Author: Kai Xiong,
+# Author: Vince Qiu, Xiong Kai, Yushu Chen
 import pygame
 from sys import exit
 from pygame.locals import *
